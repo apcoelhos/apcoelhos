@@ -14,7 +14,6 @@
 ---
 
 ### 🚀 Professional Focus
-- 🔭 **Portfolio API:** Developing a Java Spring Boot 3.x backend to programmatically track my server node health and software projects.
 - 🏗️ **Infrastructure:** Maintaining a **High-Availability 8+ Node Lab** utilizing Proxmox clusters and Docker Swarm.
 - 🛡️ **Security:** Implementing Wazuh SIEM/XDR for centralized threat detection and vulnerability management.
 
@@ -31,18 +30,11 @@
     <td width="50%" valign="top">
       <h4>Development & Automation</h4>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
   </tr>
 </table>
-
-### 📈 GitHub Ecosystem
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
 ### 📡 Home Lab Infrastructure (Current Status)
 <details>
