@@ -29,7 +29,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>Development & Automation</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
